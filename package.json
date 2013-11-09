@@ -1,0 +1,24 @@
+{
+  "name": "aspfe",
+  "version": "0.0.1-5",
+  "description": "aspfe tools",
+  "keywords": [
+    "aspfe"
+  ],
+  "contributors": [
+    {
+      "name": "Ielgnaw",
+      "email": "wanglei23@baidu.com"
+    }
+  ],
+  "dependencies": {
+    "optimist": ">=0.6.0"
+  },
+  "bin": {
+    "aspfe": "./bin/aspfe"
+  },
+  "license": "BSD",
+  "readme": "ERROR: No README data found!",
+  "_id": "aspfe@0.0.1-5",
+  "_from": "aspfe@"
+}
