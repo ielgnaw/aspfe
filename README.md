@@ -1,7 +1,7 @@
-aspfe
+aspfe tools
 ==========
 
-[![aspfe](https://d25lcipzij17d.cloudfront.net/badge.png?title=npm&type=3d&v=0.0.1-6)](https://npmjs.org/package/aspfe)
+[![aspfe](https://d25lcipzij17d.cloudfront.net/badge.png?title=npm&type=3d&v=0.0.1-11)](https://npmjs.org/package/aspfe)
 [![依赖模块状态](https://david-dm.org/ielgnaw/aspfe.png)](https://david-dm.org/ielgnaw/aspfe)
 
 aspfe是一个模板开发辅助工具，把一些事情自动化，例如copy小流量模板，发cr，小流量merge到全流量等等。
@@ -28,3 +28,4 @@ aspfe已发布到npm上，可通过如下命令安装。`-g`是必选项。
 
     copy        复制全流量模板到小流量模板
     init        初始化aspfe
+    list        列出所有的小流量模板
