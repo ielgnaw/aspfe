@@ -1,14 +1,14 @@
 {
   "name": "aspfe",
-  "version": "0.0.1-12",
+  "version": "0.0.1-13",
   "description": "aspfe tools",
   "keywords": [
     "aspfe"
   ],
   "contributors": [
     {
-      "name": "Ielgnaw",
-      "email": "wanglei23@baidu.com"
+      "name": "ielgnaw",
+      "email": "wuji0223@gmail.com"
     }
   ],
   "dependencies": {
@@ -20,7 +20,5 @@
   },
   "license": "BSD",
   "readme": "ERROR: No README data found!",
-  "readmeFilename": "README.md",
-  "_id": "aspfe@0.0.1-12",
-  "_from": "aspfe@"
+  "readmeFilename": "README.md"
 }
