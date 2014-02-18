@@ -14,7 +14,8 @@
   "dependencies": {
     "optimist": ">=0.6.0",
     "mkdirp": "~0.3.3",
-    "prompt": "~0.2.12"
+    "prompt": "~0.2.12",
+    "async": "~0.2.9"
   },
   "bin": {
     "aspfe": "./bin/aspfe"
